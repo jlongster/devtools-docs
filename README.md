@@ -10,6 +10,8 @@ function foo() {
 
 well yess. [I'm a reference-style link][foo]
 
+<script>alert('hi')</script>
+
 Poop
 
 ## So over here
