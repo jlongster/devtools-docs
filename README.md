@@ -1,3 +1,7 @@
 # Introduction
 
-[foo](har)
+```js
+function foo() {
+
+}
+```
